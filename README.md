@@ -208,7 +208,7 @@ Intelligent-Candidate-Ranking/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/intelligent-candidate-ranking.git
+git clone https://github.com/CheboluGayatri/IntelliHire_AI.git
 
 cd intelligent-candidate-ranking
 ```
