@@ -269,10 +269,10 @@ Example:
 
 ## 🎥 Demo Video
 
-Add your video link here:
+https://drive.google.com/file/d/1aBsbUzsCTRbZ6L9gIRCxG5uWEQ5FYp0w/view?usp=sharing
 
 ```text
-https://youtube.com/your-demo-video
+uploaded demo video link
 ```
 
 ---
@@ -280,7 +280,7 @@ https://youtube.com/your-demo-video
 ## 💻 GitHub Repository
 
 ```text
-https://github.com/yourusername/intelligent-candidate-ranking
+https://github.com/CheboluGayatri/IntelliHire_AI
 ```
 
 ---
