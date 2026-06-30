@@ -1,0 +1,93 @@
+{
+  "candidate_id": "string",
+
+  "profile": {
+    "anonymized_name": "string",
+    "headline": "string",
+    "summary": "string",
+    "location": "string",
+    "country": "string",
+    "years_of_experience": "float",
+    "current_title": "string",
+    "current_company": "string",
+    "current_company_size": "string",
+    "current_industry": "string"
+  },
+
+  "career_history": [
+    {
+      "company": "string",
+      "title": "string",
+      "start_date": "date",
+      "end_date": "date|null",
+      "duration_months": "integer",
+      "is_current": "boolean",
+      "industry": "string",
+      "company_size": "string",
+      "description": "string"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "string",
+      "degree": "string",
+      "field_of_study": "string",
+      "start_year": "integer",
+      "end_year": "integer",
+      "grade": "string",
+      "tier": "string"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "string",
+      "proficiency": "string",
+      "endorsements": "integer",
+      "duration_months": "integer"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "string"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "string",
+      "proficiency": "string"
+    }
+  ],
+
+  "redrob_signals": {
+    "profile_completeness_score": "float",
+    "signup_date": "date",
+    "last_active_date": "date",
+    "open_to_work_flag": "boolean",
+    "profile_views_received_30d": "integer",
+    "applications_submitted_30d": "integer",
+    "recruiter_response_rate": "float",
+    "avg_response_time_hours": "float",
+    "skill_assessment_scores": "object",
+    "connection_count": "integer",
+    "endorsements_received": "integer",
+    "notice_period_days": "integer",
+    "expected_salary_range_inr_lpa": {
+      "min": "float",
+      "max": "float"
+    },
+    "preferred_work_mode": "string",
+    "willing_to_relocate": "boolean",
+    "github_activity_score": "float",
+    "search_appearance_30d": "integer",
+    "saved_by_recruiters_30d": "integer",
+    "interview_completion_rate": "float",
+    "offer_acceptance_rate": "float",
+    "verified_email": "boolean",
+    "verified_phone": "boolean",
+    "linkedin_connected": "boolean"
+  }
+}
